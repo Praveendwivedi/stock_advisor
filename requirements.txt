@@ -6,3 +6,4 @@ python-dotenv
 kiteconnect
 httpx
 twilio
+fastapi[standard]
